@@ -7,7 +7,7 @@ A real-time gesture-based system that enhances online learning and presentation 
 - **Volume Control** 
 - **Freeze Mode** 
 - **Manageable Assets**
-- 
+
 ## 🔧 Technologies Used
 - **Python**
 - **OpenCV** 
